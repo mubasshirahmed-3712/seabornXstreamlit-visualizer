@@ -11,7 +11,7 @@ This project showcases insightful patterns in restaurant tipping behavior using 
 
 | Streamlit App UI | Example Plot |
 |------------------|--------------|
-| ![UI Screenshot](assets/ui-overview.png) | ![Bar Plot](assets/barplot-example.png) |
+| ![UI Screenshot](assets/ui-overview.mp4)
 
 ---
 
@@ -124,7 +124,7 @@ streamlit run app/sns_app_cleaned.py
 
 ## 🤝 Acknowledgements
 
-- Guided by **Kodigit**
+- Guided by **@Kodigitaccount** 
 - Powered by **Seaborn**, **Matplotlib**, and **Streamlit**
 - Developed with passion by **Mubasshir Ahmed**
 
